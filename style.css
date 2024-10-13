@@ -2,6 +2,7 @@
 html, body{
     scroll-behavior: smooth;
 }
+
 body{
     background-color: #CBCBCB;
     margin: 0;
@@ -55,10 +56,11 @@ header img{
 }
 .banner .image img{
     position: absolute;
-    height: 130%;
+    height: 140%;
     left: 50%;
     transform: translateX(-50%);
     bottom: 0px;
+    
 }
 .grid figure img{
     width: 100%;
